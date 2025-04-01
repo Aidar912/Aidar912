@@ -1,5 +1,3 @@
-<h1 align="center">Hi there, I'm Aidarbek Toktorbaev 👋</h1>
-
 <p align="center">
   <b>Web Developer | Python & Django Enthusiast</b><br>
   🇰🇬 From Kyrgyzstan • 📍 Based in Zwickau, Germany
@@ -11,7 +9,6 @@
 
 - 🎓 Bachelor's student at **Westsächsische Hochschule Zwickau (WHZ)**, DAAD scholarship holder  
 - 🛠️ Passionate about **Full-stack development**, clean code & scalable backend  
-- 🌱 Currently learning advanced Django patterns and React  
 - 🧠 Competitive programmer – participant in **ICPC 2023 Finals**
 
 ---
@@ -45,15 +42,6 @@
 ---
 
 
-
-### 🏆 Achievements
-
-- 🥉 Finalist – **ICPC Northern Eurasia 2023**  
-- 🥈 ICPC Kyrgyzstan National Qualification  
-- 🥇 Multiple Hackathon winner — creativity + technical excellence
-
----
-
 ### 📫 Connect with Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-@Aidar912-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Aidar912)
@@ -62,11 +50,6 @@
 
 ---
 
-### 📊 GitHub Stats
 
-![Aidarbek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aidar912&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aidar912&layout=compact)
-
----
 
 <p align="center">Thanks for visiting! Let’s build something great together 🤝</p>
