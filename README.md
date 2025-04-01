@@ -9,7 +9,6 @@
 
 - 🎓 Bachelor's student at **Westsächsische Hochschule Zwickau (WHZ)**, DAAD scholarship holder  
 - 🛠️ Passionate about **Full-stack development**, clean code & scalable backend  
-- 🧠 Competitive programmer – participant in **ICPC 2023 Finals**
 
 ---
 
