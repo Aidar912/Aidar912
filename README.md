@@ -44,14 +44,7 @@
 
 ---
 
-### 🚀 Projects I've Worked On
 
-- 🌐 Full-stack website for **JSC "Kyrgyztelecom"**  
-- ✈️ Travel agency landing page (Frontend, WordPress)  
-- 📚 Online platform for **Psychology Courses** – custom API, user auth, UI/UX  
-- ⚙️ Tech support for corporate websites — monitoring, debugging, maintenance
-
----
 
 ### 🏆 Achievements
 
