@@ -1,16 +1,4 @@
-<p align="center">
-  <b>Web Developer | Python & Django Enthusiast</b><br>
-  🇰🇬 From Kyrgyzstan • 📍 Based in Zwickau, Germany
-</p>
 
----
-
-### 💻 About Me
-
-- 🎓 Bachelor's student at **Westsächsische Hochschule Zwickau (WHZ)**, DAAD scholarship holder  
-- 🛠️ Passionate about **Full-stack development**, clean code & scalable backend  
-
----
 
 ### 🧰 Tech Stack
 
